@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/educationsystem/static/css/main.a230e2c5.css",
+    "main.js": "/educationsystem/static/js/main.4997b7ba.js",
+    "static/js/787.7a6eabf0.chunk.js": "/educationsystem/static/js/787.7a6eabf0.chunk.js",
+    "static/media/courses1.png": "/educationsystem/static/media/courses1.9f662312b950edf12077.png",
+    "static/media/wrap1.webp": "/educationsystem/static/media/wrap1.f4c0c82be1996fb7b9a5.webp",
+    "static/media/teamback.jpg": "/educationsystem/static/media/teamback.20e9dfd0b3c4c7291bcb.jpg",
+    "static/media/about.webp": "/educationsystem/static/media/about.99c26e0be0e2bd25256c.webp",
+    "static/media/hero8.webp": "/educationsystem/static/media/hero8.37c0c40fa47f7c1f2cf4.webp",
+    "index.html": "/educationsystem/index.html",
+    "main.a230e2c5.css.map": "/educationsystem/static/css/main.a230e2c5.css.map",
+    "main.4997b7ba.js.map": "/educationsystem/static/js/main.4997b7ba.js.map",
+    "787.7a6eabf0.chunk.js.map": "/educationsystem/static/js/787.7a6eabf0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a230e2c5.css",
+    "static/js/main.4997b7ba.js"
+  ]
+}
